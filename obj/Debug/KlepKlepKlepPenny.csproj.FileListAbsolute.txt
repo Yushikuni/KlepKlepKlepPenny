@@ -1,0 +1,7 @@
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\bin\Debug\KlepKlepKlepPenny.exe.config
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\bin\Debug\KlepKlepKlepPenny.exe
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\bin\Debug\KlepKlepKlepPenny.pdb
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\obj\Debug\KlepKlepKlepPenny.csprojAssemblyReference.cache
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\obj\Debug\KlepKlepKlepPenny.csproj.CoreCompileInputs.cache
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\obj\Debug\KlepKlepKlepPenny.exe
+C:\Users\Atlan\Desktop\Programming\KlepKlepKlepPenny\KlepKlepKlepPenny\obj\Debug\KlepKlepKlepPenny.pdb
